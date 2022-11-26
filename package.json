@@ -2,8 +2,8 @@
   "name": "vue-crud",
   "version": "0.15.2",
   "description": "Vue CRUD",
-  "author": "Szczepan Masny <szczepanmasny@gmail.com>",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
